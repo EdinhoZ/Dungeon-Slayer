@@ -73,7 +73,7 @@ int main() {
                 attroff(COLOR_PAIR(COLOR_CYAN));
                 attron(COLOR_PAIR(COLOR_RED));
                 mvprintw((38/2)+4, (150/2)-65, "'K': Bomba, gasta 10 pontos de mana e ataca num quadrado de 3 por 3 baseado na posição do rato, num limite de 5 espaços de distância do jogador. ");
-                mvprintw((38/2)+5, (150/2)-65, "ATENÇÃO: se o jogador estiver no alcance da explosão, também toma dano.");
+                mvprintw((38/2)+5, (150/2)-65, "ATENCAO: se o jogador estiver no alcance da explosão, também toma dano.");
                 attroff(COLOR_PAIR(COLOR_RED));
                 attron(COLOR_PAIR(COLOR_MAGENTA));
                 mvprintw((38/2)+7, (150/2)-65, "'L': Relâmpago, gasta 5 pontos do mana, e ataca num vetor em direção à posição do rato.");
