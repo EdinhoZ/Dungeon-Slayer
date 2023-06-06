@@ -16,7 +16,7 @@ sudo apt-get install libncurses-dev
 ```
 
 ## 🏹 Description
-This a game we created for a subject on university. We were asked to create a game based on those RogueLite games. So we came up with Dungeon Slayer where athe player travels through the map to kill enemies and conquer the dungeons. To start the game do these commands inside the ``codigo`` folder:
+This a game we created for a subject on university. We were asked to create a game based on those RogueLite games. So we came up with Dungeon Slayer where the player travels through the map to kill enemies and conquer the dungeons. To start the game do these commands inside the ``codigo`` folder:
 ```
 make clean
 make
